@@ -1,0 +1,40 @@
+
+.advice-boxes {   
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-gap: 5%;
+}
+
+.advice-box-text {
+  padding-top: 7%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 400%;
+  color: #8a7459;
+}
+
+.advice-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #8ecaab;
+  margin-top: 60%;
+  margin-bottom: 10%;
+  border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+}
+
+.advice-box h1 {
+  display: table;
+  margin: -10% auto 0 -9%; 
+  padding: 15px;
+  background-color:#bdcc1e;
+  border-radius: 45%;
+  line-height: 200%;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.advice-box p {
+  padding: 10%;
+  line-height: 150%;
+}

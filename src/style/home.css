@@ -1,0 +1,66 @@
+
+.landing-left-side {
+  width: 50%;
+  float: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-left-side  h1 {
+  padding: 10% 0 0 15%;
+  line-height: 120%;
+  font-weight: 700;
+  font-size: 400%;
+  color: #8a7459;
+}
+
+.landing-left-side p {
+  padding: 10%;
+  text-indent: 20px;
+  line-height: 150%;
+  font-size: 22px;
+}
+
+.landing-left-side-button {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10%;
+}
+
+.landing-left-side-button button, .contact-box-top button, .recipe-box-right button {
+  width: 40%;
+  padding: 15px;
+  font-weight: 700;
+  font-size: 22px;
+  background-color: #5a2f27;
+  box-shadow: 0px 7px 7px rgba(75, 93, 104, 0.3);
+  border: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: transform 1s;
+}
+
+.landing-left-side-button button:hover, .contact-box-top button:hover, .recipe-box-right button:hover {
+  transform: scale(1.1);
+}
+/* ------------------------------------------------ */
+
+.landing-right-side {
+  width: 50%;
+  float: right;
+}
+
+.landing-right-side-box-img {
+  width: 500px;
+  height: 500px;
+  margin-top: 10%;
+  background-image: url('../images/bg/bg-landing.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 5px solid green;
+}

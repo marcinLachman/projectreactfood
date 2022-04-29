@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projectreactfood/static/css/main.35554db1.css",
+    "main.js": "/projectreactfood/static/js/main.12826914.js",
+    "static/media/bg-landing.png": "/projectreactfood/static/media/bg-landing.da80fbefa4b5e86139ae.png",
+    "static/media/icon-recipe3.svg": "/projectreactfood/static/media/icon-recipe3.34c299e048915865779ddd9b89c257f8.svg",
+    "static/media/icon-recipe1.svg": "/projectreactfood/static/media/icon-recipe1.8ed50b643d5bed9a95b17644a60c7f92.svg",
+    "static/media/icon-logo.svg": "/projectreactfood/static/media/icon-logo.4f29abcf21c67e321adbb85e8fd8593e.svg",
+    "static/media/icon-recipe2.svg": "/projectreactfood/static/media/icon-recipe2.fa5d92bfc8ff1b04bf3330da2e321b0f.svg",
+    "static/media/icon-istagram.svg": "/projectreactfood/static/media/icon-istagram.bb9f17f56124e12981811987996aa668.svg",
+    "static/media/icon-twitter.svg": "/projectreactfood/static/media/icon-twitter.627c4f70268ecf710be8d42192825691.svg",
+    "static/media/icon-mail.svg": "/projectreactfood/static/media/icon-mail.3e5ae5ec7dd4aed64a2734d6a7c65988.svg",
+    "static/media/icon-fb.svg": "/projectreactfood/static/media/icon-fb.fa1a611c2f3b1952e77a38d40e7c3880.svg",
+    "index.html": "/projectreactfood/index.html",
+    "static/media/icon-location.svg": "/projectreactfood/static/media/icon-location.535bad42cbd33b37291bd17d10f01bdc.svg",
+    "main.35554db1.css.map": "/projectreactfood/static/css/main.35554db1.css.map",
+    "main.12826914.js.map": "/projectreactfood/static/js/main.12826914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35554db1.css",
+    "static/js/main.12826914.js"
+  ]
+}
